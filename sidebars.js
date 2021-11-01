@@ -2,13 +2,26 @@ module.exports = {
   docs: [
     {
       type: 'category',
-      label: '👋 Getting Started',
+      label: 'Soul Protocol',
       items: [
-        'getting-started/what-is-soulswap',
-        'getting-started/soulswap-vs-others',
-        'getting-started/what-is-soulswap',
-        'getting-started/soulswap-vs-others',
+        'soul-protocol/soul-overview',
+        {
+          type: 'category',
+          label: 'Values',
+          items: [
+            'soul-protocol/roots-and-inspiration',
+            'soul-protocol/founders-and-vision',
+          ],
+        },
+        'soul-protocol/tokenomics', 
       ],
+    },
+    {
+      type: 'category',
+      label: 'Competitive Edges',
+      items: [
+        'competitive-edges/interoperability'
+        ],
     },
     {
       type: 'category',
@@ -16,32 +29,17 @@ module.exports = {
       items: [
         {
           type: 'category',
-          label: 'Adding Liquidity',
-          items: [
-            'guides/adding-liquidity',
-            'guides/adding-liquidity',
-            'guides/adding-liquidity',
-          ],
-        },
-        {
-          type: 'category',
           label: 'Farming',
           items: [
-            'guides/how-to-farm',
+            'guides/farming',
           ],
         },
       ],
     },
     {
       type: 'category',
-      label: 'Tokenomics',
-      items: ['tokenomics/allocation', 'tokenomics/emissions'],
-    },
-    {
-      type: 'category',
       label: 'Resources',
       items: [
-        'resources/developer-tooling',
         'resources/talks-and-videos',
         'resources/guides-and-tutorials',
       ],

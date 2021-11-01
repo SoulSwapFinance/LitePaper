@@ -12,7 +12,6 @@ export default function AdditionalLinks() {
           <Typography variant="h4" component="h2">
             Open Source
           </Typography>
-          <DeveloperLinks/>
         </Grid>
         <Grid item xs={12} md={6}>
           <Typography variant="h4" component="h2">
