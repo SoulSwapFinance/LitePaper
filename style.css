@@ -21,7 +21,7 @@
   --ifm-color-primary-lightest: rgb(149, 131, 220);
   --ifm-code-font-size: 95%;
   --ifm-code-background: #332B4B;
-  --ifm-code-color: #9cdcfe;
+  --ifm-code-color: #b69cfe;
   --ifm-navbar-sidebar-width: 250px;
   --ifm-font-family-base: -apple-system,BlinkMacSystemFont,"Roboto",Helvetica,Arial,sans-serif,"Apple Color Emoji";
   --ifm-font-family-display: 'Raleway', 'arial', sans-serif;
@@ -29,11 +29,11 @@
   --ifm-background-color: #f7f8fa;
   --ifm-navbar-background-color: #f7f8fa;
 }
-/* General styling */
+/* General Styling */
 html[data-theme='dark'] {
-  --ifm-color-primary: #7674dd;
-  --ifm-color-primary-o-25: #7674dd78;
-  --ifm-color-primary-o-50: #7674dd78;
+  --ifm-color-primary: #8774dd;
+  --ifm-color-primary-o-25: #8774dd78;
+  --ifm-color-primary-o-50: #8774dd78;
   --ifm-color-emphasis-100: transparent;
   --ifm-color-emphasis-300: #40365a;
   --ifm-background-color: #351C75;
@@ -44,9 +44,9 @@ html[data-theme='dark'] {
   --ifm-navbar-search-input-icon: url('data:image/svg+xml;utf8,<svg fill="%23d8d8d8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" height="16px" width="16px"><path d="M6.02945,10.20327a4.17382,4.17382,0,1,1,4.17382-4.17382A4.15609,4.15609,0,0,1,6.02945,10.20327Zm9.69195,4.2199L10.8989,9.59979A5.88021,5.88021,0,0,0,12.058,6.02856,6.00467,6.00467,0,1,0,9.59979,10.8989l4.82338,4.82338a.89729.89729,0,0,0,1.29912,0,.89749.89749,0,0,0-.00087-1.29909Z" /></svg>');
   --ifm-dropdown-background-color: #331d38;
   --ifm-blockquote-color: #d8d8d8;
-  --ifm-heading-code-color: #7674dd;
+  --ifm-heading-code-color: #8774dd;
   --ifm-heading-color: #ffffff;
-  --ifm-link-color: #7674dd;
+  --ifm-link-color: #e89bff;
 }
 
 h1,
