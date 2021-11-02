@@ -31,7 +31,7 @@ const showcaseCards = [
     title: "Our Tokenomics",
     description: "Discover details regarding our emissions, allocation, and incentives.",
     cta: "Explore More",
-    link: "/tokenomics/allocation"
+    link: "/soul-protocol/tokenomics"
   },
 ];
 
