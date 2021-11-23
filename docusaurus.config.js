@@ -35,7 +35,7 @@ module.exports = {
       items: [
         {
           label: 'Home',
-          href: 'https://soulswap.finance',
+          href: '/',
         },
         {
           label: 'Social',
