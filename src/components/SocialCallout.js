@@ -29,7 +29,7 @@ export default function AdditionalLinks() {
               </Typography>
               <Box mt={1} color={"var(--ifm-heading-color)"}>
                 <Typography variant="body1">
-                  Join our growing community and get support in real-time.
+                  Join our growing community and get 24/7 customer support.
                 </Typography>
               </Box>
               <Box mt={1}>
