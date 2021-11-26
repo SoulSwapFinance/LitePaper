@@ -7,6 +7,9 @@ const customFields = {
   forumUrl: 'https://forum.soulswap.finance',
   daoUrl: 'https://enchant.soulswap.finance',
   blogUrl: 'https://soulswapfinance.medium.com/',
+  farmUrl: '/guides/farming',
+  stakingUrl: '/guides/staking',
+  enchantUrl: '/guides/enchant',
 };
 
 module.exports = {
@@ -36,6 +39,30 @@ module.exports = {
         {
           label: 'Home',
           href: '/',
+        },
+        {
+          label: 'Guides',
+          position: 'left',
+          items: [
+            {
+              label: 'Farming for Soul',
+              href: customFields.farmUrl,
+              // className: 'blog-logo',
+              'aria-label': 'Farming Guide',
+            },
+            {
+              label: 'Staking and Seance',
+              href: customFields.stakingUrl,
+              // className: 'twitter-logo',
+              'aria-label': 'Seance Staking Guide',
+            },
+            {
+              label: 'Earning with Enchant',
+              href: customFields.enchantUrl,
+              // className: 'twitter-logo',
+              'aria-label': 'Enchant Guide',
+            },
+          ],
         },
         {
           label: 'Social',

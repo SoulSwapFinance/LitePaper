@@ -12,8 +12,8 @@ title: Tokenomics
 ### Distribution
 
 - **75 PERCENT** Community Rewards and Incentives
-- **12.5 PERCENT** Community-Owned DAO
-- **12.5 PERCENT** Operations (Team, Marketing, Partnerships, Advisors, etc)
+- **12.5 PERCENT** DAO
+- **12.5 PERCENT** Team
 
 ### Burning Mechanisms
 
