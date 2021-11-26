@@ -59,9 +59,9 @@ export default function Showcase() {
         <img src={BackgroundSoulSwap} />
       </Box>
       <Container maxWidth="lg">
-        {/* <Typography variant="h2" component="h1" align="center">
+        <Typography variant="h2" component="h1" align="center">
           Welcome to SoulSwap!
-        </Typography> */}
+        </Typography>
         {/* <Box 
           sx={{
             display: "flex",
@@ -72,7 +72,7 @@ export default function Showcase() {
               pl: 0,
             },
           }}
-        >
+        > 
           <SearchBar />
         </Box> */}
         <Grid container spacing={4} mt={4}>
@@ -83,11 +83,11 @@ export default function Showcase() {
                   <Typography variant="h5" component="h3" fontWeight="800">
                     {card.title}
                   </Typography>
-                  <Box mt={1} color={"var(--ifm-heading-color)"}>
+                  {/* <Box mt={1} color={"var(--ifm-heading-color)"}>
                     <Typography variant="body1">
                       {card.description}
                     </Typography>
-                  </Box>
+                  </Box> */}
                   <Box mt={1}>
                     <Typography variant="body1" fontWeight="800" className="card-link">
                       {card.cta} &#8250;
