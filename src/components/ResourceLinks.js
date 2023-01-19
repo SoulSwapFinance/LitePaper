@@ -16,23 +16,29 @@ const useStyles = makeStyles(() => ({
 
 const resourceLinks = [
   {
+    title: "SoulSwap Exchange",
+    link: "https://exchange.soulswap.finance",
+    icon: <DescriptionOutlinedIcon/>,
+  },
+  {
+    title: "Soul Pay",
+    link: "https://pay.soulswap.finance",
+    icon: <DescriptionOutlinedIcon/>,
+  },
+  {
     title: "Trading Analytics",
     link: "https://analytics.soulswap.finance",
     icon: <DescriptionOutlinedIcon/>,
   },
+  // {
+  //   title: "User Dashboard",
+  //   link: "https://user.soul.sh",
+  //   icon: <DescriptionOutlinedIcon/>,
+  // },
   {
-    title: "User Dashboard",
-    link: "https://user.soul.sh",
-    icon: <DescriptionOutlinedIcon/>,
-  },
-  {
-    title: "Development Roadmap",
-    link: "https://view.monday.com/1765008420-f675b7885c5b411a6b49ba3f18b41cb8?r=use1",
-    icon: <DescriptionOutlinedIcon/>,
-  },
-  {
-    title: "Soul Poral",
-    link: "https://port.soul.sh",
+    title: "Feedback & Roadmap",
+    // link: "https://view.monday.com/1765008420-f675b7885c5b411a6b49ba3f18b41cb8?r=use1",
+    link: "https://soulswap.nolt.io",
     icon: <DescriptionOutlinedIcon/>,
   },
   {

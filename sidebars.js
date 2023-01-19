@@ -5,14 +5,6 @@ module.exports = {
       label: 'Soul Protocol',
       items: [
         'soul-protocol/soul-overview',
-        {
-          type: 'category',
-          label: 'Values',
-          items: [
-            'soul-protocol/roots-and-inspiration',
-            'soul-protocol/founders-and-vision',
-          ],
-        },
         'soul-protocol/tokenomics', 
       ],
     },
