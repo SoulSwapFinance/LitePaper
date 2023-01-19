@@ -4,7 +4,7 @@ title: SoulSwap Protocol
 ---
 
 <p>
-	<a href="https://soulswap.finance"><img src='/static/img/swaprun.gif' height="360" width="98%" alt="soul overview" /></a>
+	<a href="https://soulswap.finance"><img src='https://soul.sh/docs/swaprun.gif' height="360" width="98%" alt="soul overview" /></a>
 </p>
 
 Summoning from the shrouds -- **Soul Protocol** emerges! A fully-decentralized ecosystem that has enabled cross-chain incentives *without* increasing the emission rate. We anticipate our approach will provide us with the **agility required of a community-driven, grassroots protocol** in order to remain *relevant* in the fast-paced and competitive atmosphere of blockchain development. **Read more to learn about our founders, roots and inspiration, and our path ahead...**
