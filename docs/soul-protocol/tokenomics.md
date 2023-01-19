@@ -7,7 +7,7 @@ title: Tokenomics
 <!-- ## <center>Tokenom</center> -->
 <p>
 	<a href="https://soulswap.finance">
-    <center><img src='/static/img/allocation-chart.png' 
+    <center><img src='https://soul.sh/docs/allocation-chart.png' 
         alt="farms guide" 
         /></center>
     </a>

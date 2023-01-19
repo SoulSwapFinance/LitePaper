@@ -4,7 +4,7 @@ title: Exchange Guide
 ---
 
 <p>
-	<a href="https://soul.sh/swap"><img src='/static/img/swap-page.png' alt="swapping guide" /></a>
+	<a href="https://soul.sh/swap"><img src='https://soul.sh/docs/swap-page.png' alt="swapping guide" /></a>
 </p>
 
 > We enable our community to use a traditional AMM exchange, post limit orders, optimize with a Meta-Aggregator, swap Cross-Chain, and access an embedded Bridge (powered by [Multichain](https://multichain.org)).

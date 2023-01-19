@@ -4,7 +4,7 @@ title: Farming Guide
 ---
 
 <p>
-	<a href="https://soul.sh/farms"><img src='/static/img/farms-new.png' alt="farms guide" /></a>
+	<a href="https://soul.sh/farms"><img src='https://soul.sh/docs/farms-new.png' alt="farms guide" /></a>
 </p>
 
 > This is our farms view. SoulPower is farmed by our liquidity providers as they provide the lifeblood of the Soul Ecosystem. We've designed a way to provide rewards to our summoners while minimizing instability.
@@ -15,7 +15,7 @@ Providing liquidity is simplified by our sleek, user-friendly interface where en
 ## How to Farm: Step-by-Step
 
 <p>
-	<a href="https://soul.sh/farms"><img src='/static/img/farms-deposit.png' width='900px' alt="farm deposit" /></a>
+	<a href="https://soul.sh/farms"><img src='https://soul.sh/docs/farms-deposit.png' width='900px' alt="farm deposit" /></a>
 </p>
 
 **1 Select Farm**: the Farm pair or lending market for which you would like to deposit.
@@ -27,7 +27,7 @@ Providing liquidity is simplified by our sleek, user-friendly interface where en
 **2C Approve Deposit (where applicable)**: Enter any amount and select this approve (if applicable) to allow the contract to deposit. 
 
 <p>
-	<a href="https://soul.sh/farms"><img src='/static/img/farms-deposited.png' width='900px' alt="farm deposited" /></a>
+	<a href="https://soul.sh/farms"><img src='https://soul.sh/docs/farms-deposited.png' width='900px' alt="farm deposited" /></a>
 </p>
 
 **3 Deposit Asset**: Enter the amount of the LP (or lent Asset) to stake or use "MAX" to enter your entire balance. Please be sure to take note of any potential Early Withdrawal Periods prior to depositing, so you know the appropriate terms.
