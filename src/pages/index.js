@@ -1,7 +1,7 @@
 import React from "react";
 import Layout from "@theme/Layout";
 import Showcase from "../components/Showcase";
-import Hackathons from "../components/Hackathons";
+// import Hackathons from "../components/Hackathons";
 import AdditionalLinks from "../components/AdditionalLinks";
 import SocialCallout from "../components/SocialCallout";
 import { darkTheme } from "../theme";
@@ -12,7 +12,7 @@ export default function Home() {
     <ThemeProvider theme={darkTheme}>
       <Layout>
         <Showcase/>
-        <Hackathons/>
+        {/* <Hackathons/> */}
         <AdditionalLinks/>
         <SocialCallout/>
       </Layout>

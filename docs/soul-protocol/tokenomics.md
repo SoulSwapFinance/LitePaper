@@ -3,17 +3,19 @@ id: tokenomics
 title: Tokenomics
 ---
 
-### Emissions
 
+<!-- ## <center>Tokenom</center> -->
+<p>
+	<a href="https://soulswap.finance">
+    <center><img src='/static/img/allocation-chart.png' 
+        alt="farms guide" 
+        /></center>
+    </a>
+</p>
+
+### Emissions
 - **Daily Emissions**: 250,000 SOUL
 - **Maximum Supply**: 250,000,000 SOUL
-    > Subject to the discretion of the DAO.
-
-### Distribution
-
-- **75 PERCENT** Community Rewards and Incentives
-- **12.5 PERCENT** DAO
-- **12.5 PERCENT** Team
 
 ### Burning Mechanisms
 

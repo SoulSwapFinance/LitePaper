@@ -2,14 +2,15 @@
 
 const customFields = {
   githubUrl: `https://github.com/SoulSwapFinance`,
-  discordUrl: `https://discord.gg/DQjChB6Wa6`,
+  discordUrl: `https://discord.gg/SoulSwap`,
   twitterUrl: 'https://twitter.com/soulswapfinance',
   forumUrl: 'https://forum.soulswap.finance',
   daoUrl: 'https://enchant.soulswap.finance',
   blogUrl: 'https://soulswapfinance.medium.com/',
+  ovUrl: '/soul-protocol/soul-overview',
+  tokenomicsUrl: '/soul-protocol/tokenomics',
   farmUrl: '/guides/farming',
-  stakingUrl: '/guides/staking',
-  enchantUrl: '/guides/enchant',
+  swapUrl: '/guides/swapping',
 };
 
 module.exports = {
@@ -32,13 +33,32 @@ module.exports = {
       logo: {
         alt: 'SoulSwap Icon',
         src: 'img/soul.png',
-        srcDark: 'img/soulswap-logo.png',
+        // srcDark: 'img/soulswap-logo.png',
+        srcDark: 'img/soul.png',
         href: '/',
       },
       items: [
         {
           label: 'Home',
           href: '/',
+        },
+        {
+          label: 'Overview',
+          position: 'left',
+          items: [
+            {
+              label: 'Protocol',
+              href: customFields.ovUrl,
+              // className: 'blog-logo',
+              'aria-label': 'Protocol Overview',
+            },
+            {
+              label: 'Tokenomics',
+              href: customFields.tokenomicsUrl,
+              // className: 'blog-logo',
+              'aria-label': 'Our Tokenomics',
+            },
+          ],
         },
         {
           label: 'Guides',
@@ -51,16 +71,10 @@ module.exports = {
               'aria-label': 'Farming Guide',
             },
             {
-              label: 'Staking and Seance',
-              href: customFields.stakingUrl,
-              // className: 'twitter-logo',
-              'aria-label': 'Seance Staking Guide',
-            },
-            {
-              label: 'Earning with Enchant',
-              href: customFields.enchantUrl,
-              // className: 'twitter-logo',
-              'aria-label': 'Enchant Guide',
+              label: 'Swapping on Soul',
+              href: customFields.swapUrl,
+              // className: 'blog-logo',
+              'aria-label': 'Swapping Guide',
             },
           ],
         },

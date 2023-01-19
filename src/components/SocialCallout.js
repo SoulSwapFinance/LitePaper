@@ -7,7 +7,7 @@ export default function AdditionalLinks() {
   return (
     <Box my={8}>
       <Container maxWidth="lg">
-        <CardLink link="https://discord.gg/DQjChB6Wa6">
+        <CardLink link="https://discord.gg/SoulSwap">
           <Box display="flex">
             <Box 
               sx={{
