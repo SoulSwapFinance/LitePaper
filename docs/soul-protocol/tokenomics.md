@@ -14,7 +14,7 @@ title: Tokenomics
 </p>
 
 ### Emissions
-- **Daily Emissions**: 250,000 SOUL
+- **Daily Emissions**: 125,000 SOUL
 - **Maximum Supply**: 250,000,000 SOUL
 
 ### Burning Mechanisms
